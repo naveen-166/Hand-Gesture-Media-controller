@@ -60,11 +60,3 @@ The program will display a live video feed from your webcam with detected hand l
 
 - **Gesture Cooldown**: Prevents repeated triggering of the same action unless the gesture is reset.
 - Ensure you have a media player running that responds to standard keyboard shortcuts like "play/pause media" or "volume up/down".
-
-## License
-
-This project is licensed under the MIT License. Feel free to use and modify it.
-
-## Contribution
-
-Feel free to submit issues and pull requests if you find bugs or want to add features!
